@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author sayme
+ *
+ */
+module session2 {
+	requires javafx.graphics;
+}
